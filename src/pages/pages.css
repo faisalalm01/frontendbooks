@@ -19,8 +19,7 @@
 .login{
   
   background-image: url("https://res.cloudinary.com/dp0f1pzsf/image/upload/v1622967110/unnamed_nlkicr.jpg");
-  height: 100vh;
-  background-position: center;
+  background-position: unset;
   background-repeat: no-repeat;
   background-size: cover;
   min-width: 75rem;

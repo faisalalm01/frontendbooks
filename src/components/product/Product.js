@@ -21,8 +21,10 @@ export default class Product extends Component {
     render() {
         const {foods} = this.state
         return (
-            <div >
-               <div className="produk">
+            <div className='container'>
+                <div className='produk'>
+
+               
             <CardDeck >
             {foods.map((foods,index)=>{return(
                 <Card className="row" style={{ width: '18rem' }} key={index}>
@@ -47,6 +49,7 @@ export default class Product extends Component {
            
             </div>
             </div>
+            
         )
     }
         }

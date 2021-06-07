@@ -11,7 +11,7 @@ export default class Home extends Component {
             <div className="bg">
                 <Navbars></Navbars>
                 <Carousel></Carousel>
-                <Product ></Product>
+                <Product></Product>
             </div>
         )
     }
