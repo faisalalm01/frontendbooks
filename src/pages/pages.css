@@ -1,0 +1,42 @@
+.bg{
+  background-image: url("https://res.cloudinary.com/dp0f1pzsf/image/upload/v1622967110/unnamed_nlkicr.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.detail{
+    width: 800px;
+    height: 200px;
+    padding:20px;
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    margin-top: -120px;
+    margin-left: -220px;
+}
+
+.login{
+  
+  background-image: url("https://res.cloudinary.com/dp0f1pzsf/image/upload/v1622967110/unnamed_nlkicr.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-width: 75rem;
+
+}
+
+.form{
+  padding: 4%;
+  width: 24.8125rem;
+  display: block;
+  font-family: sans-serif;
+  background-color: #fff;
+  box-sizing: border-box;
+  box-shadow: 0 3px 10px 0 rgb(0 0 0 / 14%);
+  border-radius: .25rem;
+  width: 35rem;
+  height:25rem;
+  /* margin-left: 220px; */
+}

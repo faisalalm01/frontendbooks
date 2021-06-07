@@ -1,0 +1,13 @@
+.produk{
+align-items: center;
+/* position: fixed; */
+  width: 90pc;
+  /* height: 400px; */
+  padding:0%;
+  /* position:absolute; */
+  /* top: auto ; */
+  /* left: 2%; */
+  margin-top:-100vmin;
+  margin-left: 0px; 
+}
+
